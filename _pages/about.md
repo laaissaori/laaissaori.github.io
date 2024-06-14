@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Master's student in University of Tsukuba.</a>.
-<p>Architecture Design under the orientation of Hanazato Toshihiro.</p>
+subtitle: <a href='#'>Master's student in University of Tsukuba.</a>. Architecture Design under the orientation of Hanazato Toshihiro.
 
 profile:
   align: right
